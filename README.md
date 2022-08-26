@@ -27,6 +27,20 @@ To add a project into a solution `sln` use:
 
 `dotnet sln add API`
 
+## Access Modifiers
+
+### Public
+
+Public means that this property can be get or set from any other class in our application and same goesfor the class itself
+
+### Protected
+
+Protected means that this property can be accessed from either this class or any classes that inheritfrom this class
+
+### Private
+
+Private that means that this property is only accessible from inside this class itself
+
 ## Tips
 
 * Set auto save `File -> Auto Save`
