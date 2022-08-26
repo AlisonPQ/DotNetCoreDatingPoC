@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jSxiq+I/Ua45xZftq9z8sby/HWhdSe2UUiU86Ocqb+RjzCxXi5e43TP1SBe6GcmpaYWcSJiG8mvvQRycmIEgEA==",
+  "success": true,
+  "projectFilePath": "/Users/alison.parisaca/Documents/CoE/DatingApp/DotNetCoreDatingPoC/API/API.csproj",
+  "expectedPackageFiles": [
+    "/Users/alison.parisaca/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/alison.parisaca/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/alison.parisaca/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/alison.parisaca/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/alison.parisaca/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/alison.parisaca/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
